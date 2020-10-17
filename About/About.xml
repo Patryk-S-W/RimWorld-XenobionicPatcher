@@ -7,6 +7,7 @@
     <supportedVersions>
         <li>1.0</li>
         <li>1.1</li>
+        <li>1.2</li>
     </supportedVersions>
 	<modDependencies>
 		<li>
@@ -54,49 +55,53 @@
         <li>rimsenal.feral</li>
         <li>uuugggg.smartmedicine</li>
         <li>Ykara.EPOE</li>
+		
+        <li>Torann.ARimworldOfMagic</li>
+        <li>Mlie.AdvancedBiomes</li>
+        <li>Ogliss.AlienVsPredator</li>
+        <li>Heymyteamrules.BeastManTribes</li>
+        <li>rimofmadness.callofcthulhu.cosmichorrors</li>
+        <li>rimofmadness.callofcthulhu.elderthings</li>
+        <li>rimofmadness.callofcthulhu.factions</li>
+        <li>dismarzero.VGP.CuproPandasDrinks</li>
+        <li>Troopersmith1.DeathRattle</li>
+        <li>spincrus.dinosauria</li>
+        <li>Ogliss.Mythos.ExtendedHumanBodySimulation</li>
+        <li>sarg.geneticrimcosmichorrors</li>
+        <li>sarg.geneticrimdinosauria</li>
+        <li>sarg.geneticrimmegafauna</li>
+        <li>lbeaston.ADogSaidEasyPatcher</li>
+        <li>Mlie.LessArbitrarySurgery</li>
+        <li>Spino.Megafauna</li>
+        <li>Community.Psychology.UnofficialUpdate</li>
+        <li>kongmd.qee</li>
+        <li>Rah.RBSEHC</li>
+        <li>Raiderpedes.velcroboy333</li>
+        <li>xen.races.asari</li>
+        <li>rimofmadness.vampires</li>
+		<li>Kato.Rimofmadness.Vampires</li>
+        <li>SpiderCamp.SpiderCampDogPack</li>
+        <li>Guy.StarWarsAnimalCollection</li>
+        <li>tarojun.thrumboianrace</li>
+        <li>dismarzero.VGP.VGPGardenMedicine</li>
+        <li>SickBoyWi.TheEndTimes.TheEndTimes</li>
+        <li>Mlie.RimofMadnessWerewolves</li>
 
         <!-- Need full packageId for these...
-        <li>ARimWorldofMagic</li>
-        <li>AdvancedBiomes</li>
-        <li>AlienVsPredator</li>
+		1.1
         <li>AnimalCollabProj</li>
-        <li>BeastManTribes</li>
-        <li>CallofCthulhu-CosmicHorrors</li>
-        <li>CallofCthulhu-ElderThings</li>
-        <li>CallofCthulhu-Factions</li>
         <li>CrudeBionics</li>
-        <li>CuproPanda'sDrinks</li>
-        <li>DeathRattle</li>
-        <li>Dinosauria</li>
         <li>EnhancedRaiders1.0</li>
-        <li>ExtendedHumanBodySimulation</li>
-        <li>GeneticRimCosmicHorrorsPatch</li>
-        <li>GeneticRimDinosauriaPatch</li>
-        <li>GeneticRimMegafaunaPatch</li>
         <li>JurassicRimworld1.0</li>
-        <li>LBE'sADogSaidEasyPatcher</li>
-        <li>LessArbitrarySurgery</li>
         <li>LifeSupport</li>
         <li>LordoftheRims-Dwarves</li>
         <li>LordoftheRims-Elves</li>
         <li>LordoftheRims-Hobbits</li>
         <li>LordoftheRims-TheThirdAge</li>
         <li>LordoftheRims-Unlimited</li>
-        <li>Megafauna</li>
-        <li>Psychology</li>
         <li>QuestionableEthics</li>
-        <li>QuestionableEthicsEnhanced</li>
-        <li>RBSEHardcoreEdition</li>
-        <li>Raiderpedes</li>
-        <li>RimEffect-AsarioftheRims</li>
         <li>RimofMadness-Arachnophobia</li>
-        <li>RimofMadness-Vampires</li>
         <li>RimofMadness-Werewolves</li>
-        <li>Spidercamp'sDogPack(1.0)</li>
-        <li>StarWarsAnimalCollection</li>
-        <li>ThrumboRace</li>
-        <li>VGPGardenMedicine</li>
-        <li>[O21]Rimhammer40K</li>
         -->
     </loadAfter>
 <description>This patcher mod looks through most of the surgery operations, and matches your modded surgeries (like new bionics) with your modded races and animals.  In other words, if you have a bionic expansion mod like FSF's Vanilla Bionics Expansion, EPOE, or RBSE, and a set of modded races or animals, this patcher will match them together a few different ways (examples in quotes):
